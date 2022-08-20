@@ -7,5 +7,6 @@ steps:
   settings:
     username: abhroroy
     password: xyzzyspoon!
+    dockerfile: Dockerfile
     repo: abhroroy/myrepo
-    tags: latest
+    tags: dronpoc
